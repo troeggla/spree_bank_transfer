@@ -1,0 +1,24 @@
+de:
+  spree:
+    account_no: Kontonr.
+    add_details: Details hinzufügen
+    additional_details: Zusätzliche Details
+    back_to_banks_list: Zurück zur Bankenliste
+    banks: Banken
+    bank_name: Name der Bank
+    confirm_details_submit: Bist du sicher, dass du diese Details hinzufügen möchtest? Sie können nicht mehr geändert werden, sobald sie hinzugefügt sind. Klicke 'OK' zum Bestätigen.
+    deactivate: Deaktivieren
+    deposited_on: Überwiesen am
+    how_bank_transfer_works: Wie funktioniert die Banküberweisung
+    listing_banks: Liste der Banken
+    new_bank: Neue Bank
+    only_show_orders_with_bank_transfer_payment_reference_number: Nur Bestellungen mit Banküberweisung anzeigen
+    payment_not_found: Bezahlung nicht gefunden
+    payment_successfully_updated: Bezahlung erfolgreich geändert
+    payment_reference_details: Überweisungsdetails
+    transaction_reference_no: Überweisungsnummer 
+  ACTIVERECORD:
+    models:
+      spree/bank:
+        one: Bank
+        other: Banken
