@@ -16,8 +16,15 @@ de:
     payment_not_found: Bezahlung nicht gefunden
     payment_successfully_updated: Bezahlung erfolgreich geändert
     payment_reference_details: Überweisungsdetails
-    transaction_reference_no: Überweisungsnummer 
-  ACTIVERECORD:
+    transaction_reference_no: Überweisungsnummer
+    steps: Schritte
+    step1: Überweise den Gesamtbetrag auf eines der unten angegebenen Bankkonten. Die Bank wird der Überweisung eine Überweisungsnummer zuweisen.
+    step2: Gib die Überweisungsnummer auf der Seite mit der Bestellungsübersicht ein
+    step2a: Gehe zu "Mein Konto".
+    step2b: Wähle die Bestellung aus, zu der du Details hinzufügen möchtest.
+    step2c: Klicke auf den Link "Details hinzufügen" in der Spalte "Zalhungsinformationen".
+    step2d: Gib die Bestelldetails ein und klicke auf "Submit".
+  activerecord:
     models:
       spree/bank:
         one: Bank

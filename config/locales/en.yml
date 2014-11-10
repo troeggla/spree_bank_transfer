@@ -17,6 +17,13 @@ en:
     payment_successfully_updated: Payment successfully updated
     payment_reference_details: Bank transfer payment reference details
     transaction_reference_no: Transaction Reference No
+    steps: Steps
+    step1: Deposit the order total in one of the bank accounts listed below. After this, a payment reference number will be provided by the bank.
+    step2: Enter this payment reference number on the Order Details page as follows
+    step2a: Go to "My Account".
+    step2b: Select the order for which you want to add details.
+    step2c: Click on the link "Add Details" visible in the "Payment Information" column.
+    step2d: Insert the payment details and submit.
   activerecord:
     models:
       spree/bank:
